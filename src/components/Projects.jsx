@@ -31,6 +31,14 @@ const projects = [
     stack: 'React JS · CSS',
     link: 'https://github.com/Subaneshsuba/React_Calculator-App',
   },
+  {
+    year: '',
+    title: 'License Management Web Application',
+    description:
+      'Built a license management web application using PHP, HTML, CSS, and MySQL with secure user authentication, registration/login workflows, and full CRUD functionality for managing license records.',
+    stack: 'PHP, HTML, CSS, and MySQL',
+    link: 'https://github.com/Subaneshsuba/php_licence_app',
+  },
 ]
 
 export default function Projects() {
